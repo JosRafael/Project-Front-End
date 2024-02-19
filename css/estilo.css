@@ -14,11 +14,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #DEDEDE;
 }
 .container{
     width: 614px;
     height: 424px;
     display: flex;
+    background-color: #DEDEDE;
+    border-radius: 28px;
+    box-shadow: 0 10px 20px #00000025;
 }
 .container .side{
     width: 50%; 
